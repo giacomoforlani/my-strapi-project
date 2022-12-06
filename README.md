@@ -6,4 +6,6 @@
 - login use following credentials:
   - email: foo.bar@gmail.com
   - password: FooBar123!
-- move down the first component inside the dynamic zone
+- to reproduce the bug, perform one of this actions inside the dynamic zone:
+  - move up/down any component
+  - delete any component
