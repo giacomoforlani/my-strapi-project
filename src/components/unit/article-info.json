@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_unit_article_infos",
+  "info": {
+    "displayName": "Article Info"
+  },
+  "options": {},
+  "attributes": {
+    "publisher": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::publisher.publisher"
+    }
+  }
+}
